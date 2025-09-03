@@ -117,7 +117,7 @@ export default function SignUpPage() {
 
           <p className="text-center text-sm text-gray-600">
             Already have an account?{' '}
-            <Link href="/login" className="text-[#4B6BFB] hover:underline">
+            <Link href="https://www.chat.juristo.in/login" className="text-[#4B6BFB] hover:underline">
               Sign in
             </Link>
           </p>
